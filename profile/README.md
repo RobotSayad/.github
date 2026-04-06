@@ -14,3 +14,4 @@ I keep this space intentionally messy so my main profile stays focused.
 - occasional projects that still turn out useful
 
 If something helps you, feel free to use it.
+And as always, this README is also AI-generated.
