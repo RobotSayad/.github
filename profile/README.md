@@ -3,7 +3,8 @@
 This org is my overflow bin for projects.
 Most repos here are AI experiments, rough prototypes, or things I do not care to polish.
 
-I keep this space intentionally messy so my main profile stays clean and focused.
+The purpose is simple: keep my original profile clean and free from AI slop.
+I keep this space intentionally messy so my main profile stays focused.
 
 ## What you will find
 
